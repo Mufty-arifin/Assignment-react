@@ -1,0 +1,17 @@
+.header {
+  background-color: #233000;
+  margin-bottom: -1px;
+  padding: 15px 0 5px 0;
+  color: white;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.header-contact {
+  justify-content: right;
+  display: flex;
+  gap: 20px;
+}
+.header-contact p {
+  font-size: 12px;
+}
